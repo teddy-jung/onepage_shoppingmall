@@ -1,0 +1,28 @@
+* {
+  font-family: "Jua", sans-serif;
+}
+
+.prices {
+  font-size: 20px;
+}
+
+.input-main-1 {
+  width: 625px;
+}
+
+.picsize {
+  width: 625px;
+}
+
+.orders {
+  margin-top: 50px;
+  width: 625px;
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto 10px auto;
+}
